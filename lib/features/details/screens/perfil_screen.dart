@@ -69,7 +69,6 @@ class ProfileScreen extends StatelessWidget {
                     ),
                   ),
                 ),
-                //const SizedBox(width: 10), 
                 // aqui es la segunda tarjeta
                 Expanded(
                   child: Card(

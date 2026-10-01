@@ -1,0 +1,5 @@
+Utilicé gemini
+Empecé investigando que era la propiedad actions del appBar y es una propiedad que recibe una lista de widgets, en esta parte me ayudé de la ia para ver como se agrega la función de actions
+Sinceramente, busqué como implementar casi todo, desde como poner el circulo donde vendría estando la imagen del perfil que no alcancé a poner, la linea divisora.
+Los iconos que usé ya les había cambiado el color antes en clases pasadas, entonces eso solo lo implementé como normalmente lo haría
+Las tarjetas también las tuve que investigar al igual que como usar los rows, yo creía que era para poner las tarjetas como una lista, una seguida de la otra pero me di cuenta de que con la función mainAxisAlignment: MainAxisAlignment.spaceEvenly, las dos quedan en un mismo renglón por asi decirlo
